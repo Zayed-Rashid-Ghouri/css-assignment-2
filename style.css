@@ -1,0 +1,81 @@
+body{
+    background-color: black;
+}
+h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 29px;
+    margin-top: -10px;
+}
+.a{
+    width: 200px;
+    height: 150px;
+    position: relative;
+    right: -10px;
+ 
+}
+.b{
+    width: 200px;
+    height: 150px;
+    position: relative;
+}
+.c{
+    width: 200px;
+    height: 150px;
+    position: relative;
+    left: -10px;
+}
+p{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    
+}
+.a1{
+ position: relative;
+ left: -200px;
+ top: 15px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    color: brown;
+}
+.a2{
+    position: relative;
+    left: -100px;
+    top: -12px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+.a3{
+    position: relative;
+    left: 5px;
+    top: -39px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+.a4{
+    position: relative;
+    left: 100px;
+    top: -65px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+.a5{
+    position: relative;
+    left: 200px;
+    top: -93px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
